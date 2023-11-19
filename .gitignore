@@ -1,2 +1,6 @@
 ds-env
+*.csv
+.ipynb_checkpoints
+
+
 
